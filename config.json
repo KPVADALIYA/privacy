@@ -1,1 +1,8 @@
-
+{
+  "blocklist_urls": [
+"https://ublockorigin.pages.dev/thirdparties/easyprivacy.txt",
+"https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/lan-block.txt",
+"https://filters.adtidy.org/extension/ublock/filters/17.txt",
+"https://filters.adtidy.org/extension/ublock/filters/3.txt",
+  ]
+}
